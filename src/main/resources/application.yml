@@ -1,0 +1,8 @@
+server:
+  port: 4014
+
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/jsp/
+      suffix: .jsp 
